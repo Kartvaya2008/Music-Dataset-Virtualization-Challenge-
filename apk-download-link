@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Neon Beats APK Download</title>
+
+<style>
+    body {
+        background-color: #000000;
+        font-family: Arial, sans-serif;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .card {
+        background: linear-gradient(145deg, #0a0a0a, #111);
+        padding: 40px;
+        border-radius: 20px;
+        text-align: center;
+        width: 400px;
+        box-shadow: 0 0 40px rgba(138, 43, 226, 0.4);
+        border: 1px solid #8A2BE2;
+    }
+
+    h1 {
+        color: #8A2BE2;
+        margin-bottom: 10px;
+    }
+
+    p {
+        color: #ccc;
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 14px 28px;
+        background: #FF2E9F;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        border-radius: 30px;
+        transition: 0.3s ease;
+        box-shadow: 0 0 15px #FF2E9F;
+        margin-bottom: 15px;
+    }
+
+    .btn:hover {
+        background: #FFD84D;
+        color: black;
+        box-shadow: 0 0 25px #FFD84D;
+    }
+
+    .info {
+        margin-top: 20px;
+        font-size: 14px;
+        color: #aaa;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+    <h1>🎵 Neon Beats</h1>
+    <p>Production Flutter Music App<br>
+       Download the latest Android APK and experience premium neon music UI.</p>
+
+    <!-- APK BUTTON -->
+    <a class="btn"
+       href="https://drive.google.com/drive/folders/1dcRxGSL1cCwv1_3djSEAPXMKJBppAiuj?usp=sharing"
+       target="_blank">
+       ⬇ Download APK
+    </a>
+
+    <br>
+
+    <!-- DEMO VIDEO BUTTON -->
+    <a class="btn"
+       href="PASTE_YOUR_DEMO_VIDEO_LINK_HERE"
+       target="_blank">
+       ▶ Watch Demo Video
+    </a>
+
+    <div class="info">
+        Version: 1.0 <br>
+        Platform: Android <br>
+        Architecture: Flutter + BLoC
+    </div>
+
+</div>
+
+</body>
+</html>
