@@ -810,11 +810,11 @@ SOFTWARE.
 
 | Field | Detail |
 |---|---|
-| Name | [Your Full Name] |
-| Email | [your.email@example.com] |
-| GitHub | [https://github.com/your-username](https://github.com/your-username) |
-| LinkedIn | [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| Submission Date | [Date] |
+| Name | [Kartavya Raikwar] |
+| Email | [kartvayaraikwar@gmail.com] |
+| GitHub | [[https://github.com/your-username](https://github.com/Kartvaya2008)]() |
+| LinkedIn | [https://www.linkedin.com/in/kartavya26/] |
+| Submission Date | [27/02/26] |
 
 ---
 
